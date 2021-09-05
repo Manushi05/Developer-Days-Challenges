@@ -3,4 +3,4 @@
 
 <a target="_blank" href="https://manushi05.github.io/Developer-Days-Challenges/Week%201-%20Web%20Development%20Challenges/"> Click me</a> to Check my work.
 
-<img src=".Calculator.jpg">
+<img src="Calculator.JPG">
